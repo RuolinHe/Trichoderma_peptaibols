@@ -1,0 +1,1375 @@
+
+
+Building a new DB, current time: 04/20/2024 22:57:23
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000167675.2
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000167675.2.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8874 sequences in 0.128271 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:24
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000170995.2
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000170995.2.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9844 sequences in 0.131392 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:25
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000171015.2
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000171015.2.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10835 sequences in 0.146532 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:27
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000331835.2
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000331835.2.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11289 sequences in 0.151497 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:28
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000332775.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000332775.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8817 sequences in 0.119454 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:29
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000513815.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000513815.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8880 sequences in 0.120377 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:31
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000733085.2
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000733085.2.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10769 sequences in 0.144225 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:32
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000800515.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000800515.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10830 sequences in 0.150048 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:34
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000963795.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000963795.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10355 sequences in 0.139869 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:35
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_000988865.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_000988865.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10575 sequences in 0.14188 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:36
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001050175.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001050175.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8560 sequences in 0.117 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:38
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001481775.2
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001481775.2.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10873 sequences in 0.148104 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:39
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001599035.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001599035.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9951 sequences in 0.137154 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:40
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001721665.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001721665.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9605 sequences in 0.131074 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:42
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001835465.2
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001835465.2.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8703 sequences in 0.119856 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:43
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001931985.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001931985.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11101 sequences in 0.154572 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:45
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001950475.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001950475.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8489 sequences in 0.117363 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:46
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001990665.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001990665.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10363 sequences in 0.142919 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:47
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_001999515.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_001999515.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8632 sequences in 0.120106 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:49
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_002006585.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_002006585.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8619 sequences in 0.120013 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:50
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_002022785.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_002022785.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9268 sequences in 0.127822 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:52
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_002246955.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_002246955.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10344 sequences in 0.143531 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:53
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_002838845.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_002838845.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10385 sequences in 0.142503 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:54
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_002894145.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_002894145.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11196 sequences in 0.152571 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:56
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_002894205.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_002894205.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10513 sequences in 0.144578 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:57
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_002916895.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_002916895.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10878 sequences in 0.149019 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:57:58
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_003012085.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_003012085.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9839 sequences in 0.136677 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:00
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_003012105.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_003012105.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9540 sequences in 0.133519 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:01
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_003025095.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_003025095.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11165 sequences in 0.153066 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:03
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_003025105.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_003025105.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9770 sequences in 0.134899 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:04
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_003025115.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_003025115.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8988 sequences in 0.123445 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:05
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_003025155.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_003025155.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8325 sequences in 0.113297 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:07
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_003439915.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_003439915.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11715 sequences in 0.160039 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:08
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_004154885.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_004154885.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9979 sequences in 0.137544 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:09
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_004762065.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_004762065.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8656 sequences in 0.120347 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:11
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_007896495.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_007896495.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9685 sequences in 0.133316 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:12
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_009835125.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_009835125.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8613 sequences in 0.120854 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:14
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_010015515.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_010015515.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8152 sequences in 0.113367 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:15
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_010015525.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_010015525.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10375 sequences in 0.143289 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:16
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_011066345.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_011066345.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11224 sequences in 0.154886 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:18
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_013009365.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_013009365.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 12644 sequences in 0.173194 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:19
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_013365115.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_013365115.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9548 sequences in 0.131722 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:21
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_013423425.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_013423425.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9063 sequences in 0.126182 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:22
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_014468695.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_014468695.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10701 sequences in 0.147303 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:23
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_014839745.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_014839745.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10500 sequences in 0.143632 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:25
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_015266385.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_015266385.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10152 sequences in 0.139006 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:26
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_016490745.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_016490745.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11749 sequences in 0.158058 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:28
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_016806755.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_016806755.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8944 sequences in 0.123954 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:29
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_016806775.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_016806775.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8829 sequences in 0.124248 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:30
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_016806795.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_016806795.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8877 sequences in 0.123637 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:32
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_016806815.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_016806815.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8610 sequences in 0.119538 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:33
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_016806875.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_016806875.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8600 sequences in 0.122194 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:34
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_017945965.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_017945965.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9298 sequences in 0.124876 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:36
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_018804165.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_018804165.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10096 sequences in 0.137229 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:37
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_019097725.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_019097725.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10556 sequences in 0.145226 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:39
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_019297715.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_019297715.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9931 sequences in 0.136416 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:40
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_019393575.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_019393575.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10648 sequences in 0.152001 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:41
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_019481625.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_019481625.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11369 sequences in 0.154 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:43
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_019565615.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_019565615.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11228 sequences in 0.153508 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:44
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_019594925.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_019594925.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11161 sequences in 0.153647 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:45
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_019594945.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_019594945.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10407 sequences in 0.142888 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:47
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020002365.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020002365.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8569 sequences in 0.119473 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:48
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020045945.2
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020045945.2.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10243 sequences in 0.146524 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:50
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020466355.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020466355.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10823 sequences in 0.148191 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:51
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020631695.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020631695.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8059 sequences in 0.112984 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:52
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020647635.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020647635.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9954 sequences in 0.135941 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:54
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020647705.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020647705.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9678 sequences in 0.133795 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:55
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020647795.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020647795.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9675 sequences in 0.134503 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:56
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020647865.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020647865.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10122 sequences in 0.137826 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:58
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020736895.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020736895.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9429 sequences in 0.13003 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:58:59
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_020736905.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_020736905.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10216 sequences in 0.140527 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:01
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_021066465.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_021066465.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9277 sequences in 0.128387 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:02
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_021186515.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_021186515.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8721 sequences in 0.119731 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:03
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_022788495.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_022788495.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11906 sequences in 0.160431 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:05
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_022813565.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_022813565.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8454 sequences in 0.117674 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:06
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_022813585.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_022813585.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8902 sequences in 0.123115 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:07
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_022817925.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_022817925.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9735 sequences in 0.133162 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:09
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_022984945.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_022984945.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10418 sequences in 0.143115 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:10
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_022984975.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_022984975.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10411 sequences in 0.144128 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:11
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_022985005.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_022985005.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9792 sequences in 0.136458 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:13
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_023628735.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_023628735.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8791 sequences in 0.121394 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:14
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_023628755.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_023628755.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9167 sequences in 0.127119 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:16
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_023628795.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_023628795.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10354 sequences in 0.142743 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:17
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_023628815.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_023628815.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8789 sequences in 0.122219 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:18
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_023634465.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_023634465.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9497 sequences in 0.129073 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:20
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_023653515.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_023653515.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9033 sequences in 0.125751 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:21
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_025502635.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_025502635.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10300 sequences in 0.141885 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:23
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_025919625.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_025919625.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9823 sequences in 0.134713 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:24
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_025919645.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_025919645.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9910 sequences in 0.135451 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:25
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_025919665.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_025919665.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9487 sequences in 0.130479 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:27
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026003955.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026003955.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10837 sequences in 0.148205 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:28
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026225705.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026225705.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8790 sequences in 0.12608 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:29
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026225735.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026225735.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8819 sequences in 0.12426 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:31
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026259275.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026259275.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8719 sequences in 0.120763 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:32
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401105.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401105.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9734 sequences in 0.13435 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:33
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401175.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401175.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 13617 sequences in 0.183165 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:35
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401185.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401185.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9267 sequences in 0.127512 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:36
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401215.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401215.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9468 sequences in 0.132406 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:38
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401225.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401225.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9470 sequences in 0.131444 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:39
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401235.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401235.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9999 sequences in 0.138611 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:41
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401255.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401255.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 12591 sequences in 0.169527 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:42
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401285.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401285.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10449 sequences in 0.148109 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:43
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_026401295.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_026401295.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10337 sequences in 0.143218 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:45
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_028502605.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_028502605.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10364 sequences in 0.145224 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:46
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_028554805.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_028554805.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9591 sequences in 0.132286 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:47
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_028871095.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_028871095.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8649 sequences in 0.120124 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:49
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_029844175.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_029844175.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11259 sequences in 0.152338 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:50
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_029844195.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_029844195.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9925 sequences in 0.136226 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:52
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_030015385.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_030015385.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9687 sequences in 0.135566 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:53
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_030247165.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_030247165.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10823 sequences in 0.147159 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:54
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_030278935.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_030278935.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10685 sequences in 0.147804 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:56
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_030708095.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_030708095.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10322 sequences in 0.140444 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:57
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_030708105.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_030708105.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8470 sequences in 0.118509 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 22:59:58
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_030770505.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_030770505.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8496 sequences in 0.118208 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:00
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_033030045.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_033030045.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8674 sequences in 0.119515 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:01
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_033847375.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_033847375.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10543 sequences in 0.145784 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:02
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_033847385.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_033847385.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10506 sequences in 0.143929 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:04
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_034769445.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_034769445.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10081 sequences in 0.138909 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:05
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_035079495.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_035079495.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10396 sequences in 0.144271 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:07
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_035079515.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_035079515.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10541 sequences in 0.145588 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:08
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_035079535.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_035079535.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10531 sequences in 0.147164 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:09
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_035079625.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_035079625.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10284 sequences in 0.139382 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:11
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_036169675.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_036169675.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10172 sequences in 0.140734 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:12
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_036169685.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_036169685.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10146 sequences in 0.138923 seconds.
+
+
+
+
+Building a new DB, current time: 04/20/2024 23:00:13
+New DB name:   /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/blastdb/Trichoderma/GCA_943193705.1
+New DB title:  /storage/disk2/HRL/Project/4-Peptaibols_NRPS/data/genome/galaxy/GCA_943193705.1.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 8411 sequences in 0.117491 seconds.
+
+

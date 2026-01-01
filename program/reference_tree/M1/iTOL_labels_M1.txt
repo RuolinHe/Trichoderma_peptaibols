@@ -1,0 +1,42 @@
+LABELS
+SEPARATOR COMMA
+DATA
+1|1|1,T. afroharzianum BJ232-4
+19|2|1,T. aggressivum f. europaeum CBS 100526
+37|3|1,T. arundinaceum IBT 40837
+57|4|1,T. asperelloides BJ152-42
+75|5|1,T. asperellum CBS 433.97
+93|6|1,T. atroviride IMI 206040 TRIAT v2.0
+112|7|1,T. breve T069
+130|8|1,T. brevicompactum IBT 40841
+150|9|1,T. citrinoviride TUCIM 6016
+170|10|1,T. cornu-damae KA19-0412C
+190|11|1,T. endophyticum LA29
+208|12|1,T. erinaceum CRRI-T2N1
+227|13|1,T. gamsii T6085
+246|14|1,T. gracile HK011-1
+266|15|1,T. guizhouense NJAU 4742
+284|16|1,T. hamatum GD12
+303|17|1,T. harzianum CBS 226.95
+321|18|1,T. harzianum ZL-811
+341|19|1,T. hypoxylon
+360|20|1,T. koningii JCM 1883
+380|21|1,T. koningiopsis POS7
+399|22|1,T. lentiforme CFAM-422
+417|23|1,T. longibrachiatum ATCC 18648
+437|24|1,T. oligosporum CGMCC 3.17527
+457|25|1,T. orchidacearum COAD 3006
+477|26|1,T. parareesei CBS 125925
+497|27|1,T. polysporum HZ-31
+517|28|1,T. pseudokoningii
+537|29|1,T. reesei QM6a
+557|30|1,T. semiorbis FJ059
+575|31|1,T. simmonsii GH-Sj1
+593|32|1,T. virens Gv29-8 TRIVI v2.0
+611|33|1,T. viride OSK-36
+629|34|1,T. sp. IMV 00454
+647|35|1,T. sp. CBMAI-0179
+665|36|1,T. sp. CBMAI-0020
+683|37|1,T. sp. PF4103
+703|38|1,T. sp. CBMAI-0711
+723|39|1,T. pleuroti TPhu1

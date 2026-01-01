@@ -1,0 +1,6 @@
+data/antismash/*
+data/blastdb/*
+data/blastp/*
+data/BUSCO/*
+data/genome/*
+program/output/*
