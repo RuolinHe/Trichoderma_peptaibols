@@ -14,24 +14,45 @@ Please decompress antismash.zip, blastp.zip, blastdb.zip, BUSCO.zip and put fold
 Finally, your folders should be arranged like this:
 
 Trichoderma_peptaibols/
+
 ├── .gitignore
+
 ├── data/
+
 │   ├── Peptaibol synthetases/
+
 │   ├── blastp/
+
 │   ├── blastdb/
+
 │   ├── BUSCO/
+
 │   ├── antismash/
+
 │   ├── genome/
+
 │   └── other_files
+
 ├── program/
+
 │   ├── MLGO/
+
 │   ├── output/
+
 │   ├── reference_tree/
+
 │   ├── species_tree/
+
 │   └── other_files
+
 ├── tools_1025/
+
 │   ├── file11.ext
+
 │   └── file12.ext
+
 ├── LICENSE.txt
+
 ├── README.md
+
 └── script.pptx
