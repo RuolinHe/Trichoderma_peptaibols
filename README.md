@@ -1,10 +1,11 @@
 # Trichoderma_peptaibols
 Code for "An Enzymatic Assembly Line Generates a Chemical Arsenal for Precision Interfungal Competition"
 
-Related to [Data and code from: An Enzymatic Assembly Line Generates a Chemical Arsenal for Precision Interfungal Competition](https://doi.org/10.5281/zenodo.18118261)
+Some folders are not included in GitHub due to limitation of file size.
 
-Trichoderma_peptaibols.zip included all input and output files required. Some of them are not included in GitHub due to limitation of file size.
+You can get them in [Data and code from: An Enzymatic Assembly Line Generates a Chemical Arsenal for Precision Interfungal Competition](https://doi.org/10.5281/zenodo.18118261)
 
+## Usage
 First, you should download the contents in GitHub by:
 ```
 git clone git@github.com:RuolinHe/Trichoderma_peptaibols.git
