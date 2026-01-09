@@ -1775,23 +1775,6 @@ for i = 1:size(A4_A5_promiscuity_MSA,2)
 end
 A4_A5_promiscuity_distm= seqpdist(A4_A5_promiscuity_MSA(:,keep_col),'ScoringMatrix','BLOSUM62','Method','alignment-score','SquareForm',true);
  
-[coeff, score, latent, ~, explained] = pca(A4_A5_promiscuity_distm);
-figure;
-scatter(score(:,1), score(:,2), 50, uni_A_color_matrix, 'filled');
-xlabel(['PCA1(',num2str(round(explained(1),2)),'%)']);
-ylabel(['PCA2(',num2str(round(explained(2),2)),'%)']);
-title('Ala&Aib&Vxx&Lxx (A4-A5)');
-set(gca, 'Fontname', 'Arial');
-saveas(gcf,'./output/figure/A4_A5_promiscuity_PCA.svg')
-Y = tsne(A4_A5_promiscuity_distm);
-figure;
-scatter(Y(:,1), Y(:,2), 50, uni_A_color_matrix, 'filled');
-xlabel('tsne1');
-ylabel('tsne2');
-title('Ala&Aib&Vxx&Lxx (A4-A5)');
-set(gca, 'Fontname', 'Arial');
-saveas(gcf,'./output/figure/A4_A5_promiscuity_tsne.svg')
- 
 [reduction2, umap, clusterIdentifiers, extras]=run_umap(A4_A5_promiscuity_distm,'randomize',true);
 % figure;
 hold on
@@ -1809,4 +1792,56 @@ promiscuity_module_ancestor_cluster=cell(length(cluster_index),1);
 for i = 1:length(cluster_index)
     promiscuity_substrate_cluster{i}=promiscuity_substrate_list(cluster_index{i});
     promiscuity_module_ancestor_cluster{i}=best_peptaibol.module_ancestor_list(promiscuity_all_index(cluster_index{i}));
+end
+%% heatmap
+peptaibol_str={'18peptaibol','26peptaibol'};
+path_pre='output/figure/substrate_promiscuity/';
+for j = 1:length(peptaibol_str)
+    if j == 1
+        substrate_list={'Ser';'Gly';'Ala';'Aib';'Vxx';'Lxx';'Pro';'Trp';'Phe';'Tyr';'Glu';'Gln';'Glu(OMe)'};
+    elseif j == 2
+        substrate_list={'Ser';'Gly';'Ala';'Aib';'Vxx';'Lxx';'Lys';'Pro';'Trp';'Phe';'Tyr';'Glu';'Gln';'Glu(OMe)'};
+    end
+    loc_path=[path_pre,peptaibol_str{j},'/'];
+    loc_edge=readtable([loc_path,'edge.xlsx']);
+    loc_node=readtable([loc_path,'node.xlsx']);
+    loc_matrix=zeros(length(substrate_list));
+    for i = 1:length(loc_edge.source)
+        loc_index1=find(ismember(substrate_list,loc_edge.source{i}));
+        loc_index2=find(ismember(substrate_list,loc_edge.target{i}));
+        loc_matrix(loc_index1,loc_index2)=loc_edge.weight(i);
+        loc_matrix(loc_index2,loc_index1)=loc_edge.weight(i);
+    end
+    loc_matrix_log2=log2(loc_matrix+1);
+
+    width = 350;   % 图形宽度（像素），可根据需要增大以容纳条形图
+    height = 290;  % 图形高度（像素）
+    fig = figure;
+    set(fig, 'Position', [100, 100, width * 1.5, height]);  % 增加宽度以容纳右侧条形图（乘 1.5）
+    % 创建 tiledlayout：1 行 2 列
+    t = tiledlayout(1, 2, 'Padding', 'compact', 'TileSpacing', 'compact');
+    
+    % 左侧：热图
+    nexttile(1);
+    h = heatmap(loc_matrix_log2);
+    h.XDisplayLabels = substrate_list;
+    h.YDisplayLabels = substrate_list;
+    h.Title = peptaibol_str{j};  % 可选：添加标题
+    hs = struct(h);
+    ylabel(hs.Colorbar, 'log2(Frequence)');
+    xlabel('Substrate')
+    ylabel('Substrate')
+    % 右侧：横向条形图（假设显示每行总和）
+    nexttile(2);
+    bar_data = zeros(length(substrate_list),1);
+    for i = 1:length(substrate_list)
+        bar_data(i)=loc_node.Size(ismember(loc_node.Names,substrate_list{i}));
+    end
+    b = barh(bar_data);
+    ylim([0.5, length(substrate_list) + 0.5]);  % 确保 y 轴范围匹配标签    
+    ax = gca;  % 获取当前轴
+    set(ax, 'YDir', 'reverse');  % 反转 y 轴方向（从上到下）
+    yticklabels(ax, {});
+    title('A domain count')
+    saveas(gcf,['./output/figure/substrate_heatmap_',peptaibol_str{j},'.svg'])
 end
