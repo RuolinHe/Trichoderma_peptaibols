@@ -1813,20 +1813,21 @@ for j = 1:length(peptaibol_str)
         loc_matrix(loc_index2,loc_index1)=loc_edge.weight(i);
     end
     loc_matrix_log2=log2(loc_matrix+1);
-
+    loc_matrix_log2=loc_matrix_log2-triu(loc_matrix_log2);
     width = 350;   % 图形宽度（像素），可根据需要增大以容纳条形图
     height = 290;  % 图形高度（像素）
     fig = figure;
     set(fig, 'Position', [100, 100, width * 1.5, height]);  % 增加宽度以容纳右侧条形图（乘 1.5）
     % 创建 tiledlayout：1 行 2 列
     t = tiledlayout(1, 2, 'Padding', 'compact', 'TileSpacing', 'compact');
-    
+
     % 左侧：热图
     nexttile(1);
     h = heatmap(loc_matrix_log2);
     h.XDisplayLabels = substrate_list;
     h.YDisplayLabels = substrate_list;
     h.Title = peptaibol_str{j};  % 可选：添加标题
+    h.GridVisible='off';
     hs = struct(h);
     ylabel(hs.Colorbar, 'log2(Frequence)');
     xlabel('Substrate')
@@ -1837,11 +1838,10 @@ for j = 1:length(peptaibol_str)
     for i = 1:length(substrate_list)
         bar_data(i)=loc_node.Size(ismember(loc_node.Names,substrate_list{i}));
     end
-    b = barh(bar_data);
-    ylim([0.5, length(substrate_list) + 0.5]);  % 确保 y 轴范围匹配标签    
-    ax = gca;  % 获取当前轴
-    set(ax, 'YDir', 'reverse');  % 反转 y 轴方向（从上到下）
-    yticklabels(ax, {});
-    title('A domain count')
+    h=heatmap(bar_data, 'CellLabelColor', 'none');
+    hs = struct(h);
+    ylabel(hs.Colorbar, 'A domain count');
+    h.XDisplayLabels = repmat({''},size(bar_data,2),1);
+    h.YDisplayLabels = repmat({''},size(bar_data,1),1);
     saveas(gcf,['./output/figure/substrate_heatmap_',peptaibol_str{j},'.svg'])
 end
