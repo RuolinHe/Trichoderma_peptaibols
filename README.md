@@ -40,3 +40,5 @@ Trichoderma_peptaibols/
 ├── README.md
 └── script.pptx
 ```
+## Overview
+The relationship of scripts can be found in [script.pptx](https://github.com/RuolinHe/Trichoderma_peptaibols/blob/main/script.pptx) file.
